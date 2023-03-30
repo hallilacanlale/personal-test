@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/personal-test/static/css/main.12955ccb.css",
+    "main.js": "/personal-test/static/js/main.8c1675aa.js",
+    "static/js/851.019b9e48.chunk.js": "/personal-test/static/js/851.019b9e48.chunk.js",
+    "static/js/117.5e57c21a.chunk.js": "/personal-test/static/js/117.5e57c21a.chunk.js",
+    "static/js/478.1c1a430a.chunk.js": "/personal-test/static/js/478.1c1a430a.chunk.js",
+    "static/js/922.950c5cf1.chunk.js": "/personal-test/static/js/922.950c5cf1.chunk.js",
+    "static/js/161.c613de47.chunk.js": "/personal-test/static/js/161.c613de47.chunk.js",
+    "static/js/671.af4c812c.chunk.js": "/personal-test/static/js/671.af4c812c.chunk.js",
+    "static/js/191.2239f442.chunk.js": "/personal-test/static/js/191.2239f442.chunk.js",
+    "static/js/209.04592873.chunk.js": "/personal-test/static/js/209.04592873.chunk.js",
+    "static/js/625.f8bcd472.chunk.js": "/personal-test/static/js/625.f8bcd472.chunk.js",
+    "static/media/about.md": "/personal-test/static/media/about.452eb23e869c53fff946.md",
+    "index.html": "/personal-test/index.html",
+    "main.12955ccb.css.map": "/personal-test/static/css/main.12955ccb.css.map",
+    "main.8c1675aa.js.map": "/personal-test/static/js/main.8c1675aa.js.map",
+    "851.019b9e48.chunk.js.map": "/personal-test/static/js/851.019b9e48.chunk.js.map",
+    "117.5e57c21a.chunk.js.map": "/personal-test/static/js/117.5e57c21a.chunk.js.map",
+    "478.1c1a430a.chunk.js.map": "/personal-test/static/js/478.1c1a430a.chunk.js.map",
+    "922.950c5cf1.chunk.js.map": "/personal-test/static/js/922.950c5cf1.chunk.js.map",
+    "161.c613de47.chunk.js.map": "/personal-test/static/js/161.c613de47.chunk.js.map",
+    "671.af4c812c.chunk.js.map": "/personal-test/static/js/671.af4c812c.chunk.js.map",
+    "191.2239f442.chunk.js.map": "/personal-test/static/js/191.2239f442.chunk.js.map",
+    "209.04592873.chunk.js.map": "/personal-test/static/js/209.04592873.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12955ccb.css",
+    "static/js/main.8c1675aa.js"
+  ]
+}
